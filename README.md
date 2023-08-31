@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NextJs Projects**
 
-- 🌱 I’m currently learning **NextJs, VueJs, NuxtJs**
+- 🌱 I’m currently learning **NextJs, VueJs**
 
 - 🤝 I’m looking for help with **Web-Developer**
 
